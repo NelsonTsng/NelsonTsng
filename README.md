@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Nelson C. Tschonghongei (PhD) coded as NelsonTsng
+- 👀 I’m interested in documentary linguistics
+- 🌱 I’m currently mastering documentary/digitisation softwares: ELAN, FLEx, Praat, Audacity, Excel
+- 💞️ I’m looking to collaborate on language documentation.
+- 📫 How to reach me is through my email: nelsonts@buffalo.edu
+-    NelsonTsng is a special repository for a variety of linguistic data.
